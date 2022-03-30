@@ -1,0 +1,14 @@
+#include <iostream>
+Using namespace std;
+
+int main ()
+{
+    Int data[5];
+    Cout <<"enter elements:";
+
+    For(int i = 0; i<5 ; ++i)
+       Cout << endl << * data +i);
+    Return 0;
+}
+
+    
