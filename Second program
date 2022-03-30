@@ -1,0 +1,17 @@
+#include <iostream>
+Using namespace std;
+
+int main()
+    Double num1,num2, product;
+    Cout <<"enter two number:";
+   
+    //Stores two floating point numbers in num1 and num2 respectively
+    Cin >>num1 >>num2;
+
+    //Performance multiplication and store the result in product variables
+    Product = num1*num2
+
+   Cout <<"product = "<<product;
+
+   Return 0;
+}
